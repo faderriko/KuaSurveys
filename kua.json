@@ -13,7 +13,7 @@
           "surveyAnswers": [
             "Youtube",
             "Twitter",
-            "(Twitter) X",
+            "Instagram",
             "Facebook",
             "Friend"
           ]
@@ -65,6 +65,306 @@
         }
       ]
     },
+    
+    {
+        "surveyId": "DU6LAI3GJK",
+        "surveyCategory": "Food",
+        "surveyPaid": false,
+        "surveyAmount": 49,
+        "surveyQuestions": [
+            {
+                "surveyQuestion": "How often do you eat?",
+                "surveyType": 1,
+                "surveyAnswers": [
+                    "Once a day",
+                    "Twice a day",
+                    "Thrice a day"
+                ]
+            },
+            {
+                "surveyQuestion": "Which cuisines do you enjoy? (Select all that apply)",
+                "surveyType": 1,
+                "surveyAnswers": [
+                    "African",
+                    "Italian",
+                    "Mexican",
+                    "Chinese",
+                    "Indian",
+                    "Japanese"
+                ]
+            },
+            {
+                "surveyQuestion": "What is your favorite comfort food?",
+                "surveyType": 2,
+                "surveyAnswers": []
+            },
+            {
+                "surveyQuestion": "Do you follow any specific diet? If yes, please specify.",
+                "surveyType": 1,
+                "surveyAnswers": [
+                    "Yes",
+                    "No"
+                ]
+            },
+            {
+                "surveyQuestion": "Which of the following snacks do you enjoy? (Select all that apply)",
+                "surveyType": 1,
+                "surveyAnswers": [
+                    "Chips",
+                    "Popcorn",
+                    "Fruit",
+                    "Nuts",
+                    "Chocolate"
+                ]
+            },
+            {
+                "surveyQuestion": "Which beverages do you prefer? (Select all that apply)",
+                "surveyType": 1,
+                "surveyAnswers": [
+                    "Coffee",
+                    "Tea",
+                    "Soda",
+                    "Water",
+                    "Juice"
+                ]
+            }
+        ]
+    },
+    {
+        "surveyId": "DU6LAI3GJK",
+        "surveyCategory": "Television",
+        "surveyPaid": true,
+        "surveyAmount": 50,
+        "surveyQuestions": [
+            {
+                "surveyQuestion": "How many hours do you watch TV per day?",
+                "surveyType": 1,
+                "surveyAnswers": [
+                    "Less than 1 hour",
+                    "1-2 hours",
+                    "3-4 hours",
+                    "More than 4 hours"
+                ]
+            },
+            {
+                "surveyQuestion": " Which genres of TV shows do you enjoy watching?",
+                "surveyType": 1,
+                "surveyAnswers": [
+                    "Comedy",
+                    "Drama",
+                    "Action",
+                    "Reality TV",
+                    "Documentary",
+                    "Cooking Shows"
+                ]
+            },
+            {
+                "surveyQuestion": "Do you prefer watching TV shows or movies?",
+                "surveyType": 1,
+                "surveyAnswers": [
+                    "TV shows",
+                    "Movies",
+                    "Both equally"
+                ]
+            },
+            {
+                "surveyQuestion": "Where do you usually watch TV?",
+                "surveyType": 1,
+                "surveyAnswers": [
+                    "Living room",
+                    "Bedroom",
+                    "Kitchen",
+                    "Outdoors",
+                    "Other"
+                ]
+            },
+            {
+                "surveyQuestion": "Which of the following snacks do you enjoy? (Select all that apply)",
+                "surveyType": 3,
+                "surveyAnswers": [
+                    "Chips",
+                    "Popcorn",
+                    "Fruit",
+                    "Nuts",
+                    "Chocolate"
+                ]
+            },
+            {
+                "surveyQuestion": "Do you watch TV alone or with others?",
+                "surveyType": 1,
+                "surveyAnswers": [
+                    "Alone",
+                    "With family",
+                    "With friends",
+                    "With partner"
+                ]
+            }
+        ]
+    },
+    {
+        "surveyId": "DU6LAI3GJK",
+        "surveyCategory": "Social Media",
+        "surveyPaid": false,
+        "surveyAmount": 44,
+        "surveyQuestions": [
+            {
+                "surveyQuestion": "How many hours do you spend on social media per day?",
+                "surveyType": 1,
+                "surveyAnswers": [
+                    "Less than 1 hour",
+                    "1-2 hours",
+                    "2-4 hours",
+                    "More than 4 hours"
+                ]
+            },
+            {
+                "surveyQuestion": "Which social media platforms do you use regularly?",
+                "surveyType": 1,
+                "surveyAnswers": [
+                    "Facebook",
+                    "Instagram",
+                    "Twitter",
+                    "Snapchat",
+                    "TikTok",
+                    "LinkedIn",
+                    "Pinterest",
+                    "Reddit"
+                ]
+            },
+            {
+                "surveyQuestion": "Do you think social media has a positive impact on society?",
+                "surveyType": 1,
+                "surveyAnswers": [
+                    "Yes",
+                    "No",
+                    "Not sure"
+                ]
+            },
+            {
+                "surveyQuestion": "What do you use social media for?",
+                "surveyType": 3,
+                "surveyAnswers": [
+                    "Connecting with friends/family",
+                    "Sharing photos/videos",
+                    "Reading news",
+                    "Entertainment",
+                    "Networking",
+                    "Promoting business"
+                ]
+            },
+            {
+                "surveyQuestion": "What is your favorite social media platform and why?",
+                "surveyType": 2,
+                "surveyAnswers": []
+            },
+            {
+                "surveyQuestion": "Have you ever been a victim of cyberbullying on social media?",
+                "surveyType": 1,
+                "surveyAnswers": [
+                    "Yes",
+                    "No"
+                ]
+            },
+            {
+                "surveyQuestion": "How often do you post on social media?",
+                "surveyType": 1,
+                "surveyAnswers": [
+                    "Multiple times a day",
+                    "Once a day",
+                    "A few times a week",
+                    "Rarely",
+                    "Never"
+                ]
+            },
+            {
+                "surveyQuestion": "What type of content do you engage with the most on social media?",
+                "surveyType": 1,
+                "surveyAnswers": [
+                    "Videos",
+                    "Photos",
+                    "Text posts",
+                    "Memes",
+                    "Articles",
+                    "Live streams"
+                ]
+            }
+        ]
+    },
+    {
+        "surveyId": "DU6LAI3GJK",
+        "surveyCategory": "Food",
+        "surveyPaid": false,
+        "surveyAmount": 45,
+        "surveyQuestions": [
+            {
+                "surveyQuestion": "Which of the following beverages do you enjoy? (Select all that apply)",
+                "surveyType": 3,
+                "surveyAnswers": [
+                    "Tea",
+                    "Soda",
+                    "Juice",
+                    "Water",
+                    "Coffee"
+                ]
+            },
+            {
+                "surveyQuestion": "Do you prefer hot or cold beverages?",
+                "surveyType": 1,
+                "surveyAnswers": [
+                    "Hot",
+                    "Cold"
+                ]
+            },
+            {
+                "surveyQuestion": "What is your go-to drink at a cafe?",
+                "surveyType": 2,
+                "surveyAnswers": []
+            },
+            {
+                "surveyQuestion": "How do you like your tea?",
+                "surveyType": 1,
+                "surveyAnswers": [
+                    "Black",
+                    "Green",
+                    "Herbal",
+                    "With Milk",
+                    "Iced"
+                ]
+            },
+            {
+                "surveyQuestion": "Which of the following alcoholic beverages do you enjoy? (Select all that apply)",
+                "surveyType": 1,
+                "surveyAnswers": [
+                    "Beer",
+                    "Wine",
+                    "Cocktails",
+                    "Whiskey",
+                    "Vodka"
+                ]
+            },
+            {
+                "surveyQuestion": "How do you like your water?",
+                "surveyType": 1,
+                "surveyAnswers": [
+                    "Still",
+                    "Sparkling",
+                    "Flavored"
+                ]
+            },
+            {
+                "surveyQuestion": "Which of the following soft drinks do you enjoy? (Select all that apply)",
+                "surveyType": 1,
+                "surveyAnswers": [
+                    "Cola",
+                    "Lemonade",
+                    "Orange Soda",
+                    "Root Beer",
+                    "Ginger Ale"
+                ]
+            }
+        ]
+    },
+
     {
       "surveyId": "T472SNCM16",
       "surveyCategory": "Home Buyer",
