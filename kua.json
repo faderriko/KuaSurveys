@@ -13,7 +13,7 @@
           "surveyAnswers": [
             "Youtube",
             "Twitter",
-            "(Twitter) X",
+            "Instagram",
             "Facebook",
             "Friend"
           ]
@@ -82,7 +82,7 @@
           },
           {
               "surveyQuestion": "Which cuisines do you enjoy? (Select all that apply)",
-              "surveyType": 1,
+              "surveyType": 2,
               "surveyAnswers": [
                   "African",
                   "Italian",
