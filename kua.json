@@ -107,7 +107,7 @@
           },
           {
               "surveyQuestion": "Which of the following snacks do you enjoy? (Select all that apply)",
-              "surveyType": 1,
+              "surveyType": 3,
               "surveyAnswers": [
                   "Chips",
                   "Popcorn",
@@ -118,7 +118,7 @@
           },
           {
               "surveyQuestion": "Which beverages do you prefer? (Select all that apply)",
-              "surveyType": 1,
+              "surveyType": 3,
               "surveyAnswers": [
                   "Coffee",
                   "Tea",
@@ -352,7 +352,7 @@
           },
           {
               "surveyQuestion": "Which of the following soft drinks do you enjoy? (Select all that apply)",
-              "surveyType": 1,
+              "surveyType": 3,
               "surveyAnswers": [
                   "Cola",
                   "Lemonade",
