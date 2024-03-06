@@ -82,7 +82,7 @@
           },
           {
               "surveyQuestion": "Which cuisines do you enjoy? (Select all that apply)",
-              "surveyType": 2,
+              "surveyType": 3,
               "surveyAnswers": [
                   "African",
                   "Italian",
